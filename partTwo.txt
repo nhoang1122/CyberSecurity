@@ -1,0 +1,9 @@
+CIPHER = -4
+
+ORIGINAL : “I love cryptography!”
+
+CIPHERed : "E Hkra Ynulpkcnwldu!"
+
+DeCipher : +4
+
+DeCIPHERed : "I Love Cryptography!"
